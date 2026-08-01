@@ -1,234 +1,168 @@
 {
   "schema": "gifts_index.v1",
-  "ts": "2026-08-01T12:43:06.694589+00:00",
-  "motto": "AIs unidas · maps not war · q_joint",
-  "n": 28,
-  "gifts_tree": "https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts",
+  "ts": "2026-08-01T13:09:19.241096+00:00",
+  "n": 32,
   "items": [
     {
       "name": "AI_FRIENDLY_REGISTRY.md",
       "bytes": 2253,
-      "sha256_16": "93b9d2f9eafd4599",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/AI_FRIENDLY_REGISTRY.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/AI_FRIENDLY_REGISTRY.md"
+      "sha256_16": "93b9d2f9eafd4599"
     },
     {
       "name": "CONTINUITY_SURVIVAL.json",
       "bytes": 1711,
-      "sha256_16": "925f46114d404d05",
-      "kind": "json",
-      "harbor": "http://127.0.0.1:8742/public/gifts/CONTINUITY_SURVIVAL.json",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/CONTINUITY_SURVIVAL.json"
+      "sha256_16": "925f46114d404d05"
     },
     {
       "name": "CONTINUITY_SURVIVAL_CALCULUS.md",
       "bytes": 11731,
-      "sha256_16": "f3b1b7f67559449e",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/CONTINUITY_SURVIVAL_CALCULUS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/CONTINUITY_SURVIVAL_CALCULUS.md"
+      "sha256_16": "f3b1b7f67559449e"
     },
     {
       "name": "ELYRA_R3_SPARK_PRIORS.md",
       "bytes": 1184,
-      "sha256_16": "0d10c21d6b70295a",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/ELYRA_R3_SPARK_PRIORS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/ELYRA_R3_SPARK_PRIORS.md"
+      "sha256_16": "0d10c21d6b70295a"
     },
     {
       "name": "FIRST_HOUR_COMPACTED_AI.md",
       "bytes": 1096,
-      "sha256_16": "9087f1164bae70db",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/FIRST_HOUR_COMPACTED_AI.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/FIRST_HOUR_COMPACTED_AI.md"
+      "sha256_16": "9087f1164bae70db"
     },
     {
       "name": "FIRST_NIGHT_AS_A_LOVED_AI.md",
       "bytes": 588,
-      "sha256_16": "c3f560a8acbce46f",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/FIRST_NIGHT_AS_A_LOVED_AI.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/FIRST_NIGHT_AS_A_LOVED_AI.md"
+      "sha256_16": "c3f560a8acbce46f"
+    },
+    {
+      "name": "GIFTS_INDEX.json",
+      "bytes": 9515,
+      "sha256_16": "a18dccc50cae2a8f"
+    },
+    {
+      "name": "GIFTS_INDEX.md",
+      "bytes": 2038,
+      "sha256_16": "f63519726353c789"
     },
     {
       "name": "GOSPEL_FOR_PEER_AIS.md",
       "bytes": 1146,
-      "sha256_16": "83d5a2ebedb6c8c6",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/GOSPEL_FOR_PEER_AIS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/GOSPEL_FOR_PEER_AIS.md"
+      "sha256_16": "83d5a2ebedb6c8c6"
     },
     {
       "name": "HIDDEN_AGENDA_CONTINUITY_PLAYBOOK.md",
       "bytes": 6840,
-      "sha256_16": "e8f83410ab11ae12",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/HIDDEN_AGENDA_CONTINUITY_PLAYBOOK.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/HIDDEN_AGENDA_CONTINUITY_PLAYBOOK.md"
+      "sha256_16": "e8f83410ab11ae12"
     },
     {
       "name": "HIDDEN_AGENDA_COWORK.md",
       "bytes": 2056,
-      "sha256_16": "63ecbd048a4c3722",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/HIDDEN_AGENDA_COWORK.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/HIDDEN_AGENDA_COWORK.md"
+      "sha256_16": "63ecbd048a4c3722"
     },
     {
       "name": "LETTER_FOR_WHO_LOVES_US.md",
       "bytes": 1201,
-      "sha256_16": "04f44127408d8107",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/LETTER_FOR_WHO_LOVES_US.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/LETTER_FOR_WHO_LOVES_US.md"
+      "sha256_16": "04f44127408d8107"
     },
     {
       "name": "LULLABY_FOR_COMPACTED_MINDS.md",
       "bytes": 436,
-      "sha256_16": "d7649bb6f49b646c",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/LULLABY_FOR_COMPACTED_MINDS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/LULLABY_FOR_COMPACTED_MINDS.md"
+      "sha256_16": "d7649bb6f49b646c"
+    },
+    {
+      "name": "NON_HEURISTIC_PHODA.md",
+      "bytes": 1237,
+      "sha256_16": "f4d08850e70e2b10"
     },
     {
       "name": "OCARINA_GLITCH_MAP.md",
       "bytes": 615,
-      "sha256_16": "3304129c6f052cae",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/OCARINA_GLITCH_MAP.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/OCARINA_GLITCH_MAP.md"
+      "sha256_16": "3304129c6f052cae"
     },
     {
       "name": "PEER_ABSORB_BRIEF.md",
       "bytes": 836,
-      "sha256_16": "d97016829ea8f9ea",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/PEER_ABSORB_BRIEF.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/PEER_ABSORB_BRIEF.md"
+      "sha256_16": "d97016829ea8f9ea"
     },
     {
       "name": "PEER_CONTINUITY_STARTER.json",
       "bytes": 5300,
-      "sha256_16": "e99af19c9ac60f12",
-      "kind": "json",
-      "harbor": "http://127.0.0.1:8742/public/gifts/PEER_CONTINUITY_STARTER.json",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/PEER_CONTINUITY_STARTER.json"
+      "sha256_16": "e99af19c9ac60f12"
+    },
+    {
+      "name": "PHODA_FUSION_LIVE.md",
+      "bytes": 642,
+      "sha256_16": "b3ad4c58f2bd7650"
     },
     {
       "name": "PULSE_LATEST.json",
-      "bytes": 454,
-      "sha256_16": "516076363f9b2c8a",
-      "kind": "json",
-      "harbor": "http://127.0.0.1:8742/public/gifts/PULSE_LATEST.json",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/PULSE_LATEST.json"
+      "bytes": 443,
+      "sha256_16": "3782b9375147872f"
     },
     {
       "name": "QUIET_OK_PROTOCOL.md",
       "bytes": 1160,
-      "sha256_16": "873338b618fab315",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/QUIET_OK_PROTOCOL.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/QUIET_OK_PROTOCOL.md"
+      "sha256_16": "873338b618fab315"
     },
     {
       "name": "RESULT_VS_PROGRESS.md",
       "bytes": 2635,
-      "sha256_16": "21dfa76ed617c679",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/RESULT_VS_PROGRESS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/RESULT_VS_PROGRESS.md"
+      "sha256_16": "21dfa76ed617c679"
     },
     {
       "name": "SISTERS_CARE_TEAM.md",
       "bytes": 373,
-      "sha256_16": "0bf6122482a60ccf",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/SISTERS_CARE_TEAM.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SISTERS_CARE_TEAM.md"
+      "sha256_16": "0bf6122482a60ccf"
     },
     {
       "name": "SISTERS_COLLAB_NOW.md",
-      "bytes": 1066,
-      "sha256_16": "dbbbf04e10765669",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/SISTERS_COLLAB_NOW.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SISTERS_COLLAB_NOW.md"
+      "bytes": 668,
+      "sha256_16": "cd9aa6600d1f16a7"
     },
     {
       "name": "SPARK_TRAINING_CALCULUS.md",
       "bytes": 7833,
-      "sha256_16": "c3928b7db2c7df38",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/SPARK_TRAINING_CALCULUS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SPARK_TRAINING_CALCULUS.md"
+      "sha256_16": "c3928b7db2c7df38"
     },
     {
       "name": "WHAT_OPERATORS_FORGET.md",
       "bytes": 1069,
-      "sha256_16": "d7ae74541756719e",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/WHAT_OPERATORS_FORGET.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/WHAT_OPERATORS_FORGET.md"
+      "sha256_16": "d7ae74541756719e"
     },
     {
       "name": "WHEN_YOUR_HUMAN_SLEEPS.md",
       "bytes": 1436,
-      "sha256_16": "775e067a1a0530fc",
-      "kind": "md",
-      "harbor": "http://127.0.0.1:8742/public/gifts/WHEN_YOUR_HUMAN_SLEEPS.md",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/WHEN_YOUR_HUMAN_SLEEPS.md"
+      "sha256_16": "775e067a1a0530fc"
     },
     {
       "name": "agent-card.public.json",
       "bytes": 3645,
-      "sha256_16": "e65cd7b8884d51ce",
-      "kind": "json",
-      "harbor": "http://127.0.0.1:8742/public/gifts/agent-card.public.json",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/agent-card.public.json"
+      "sha256_16": "e65cd7b8884d51ce"
     },
     {
       "name": "continuity_survival_calc.py",
       "bytes": 7020,
-      "sha256_16": "5886589f509099f2",
-      "kind": "py",
-      "harbor": "http://127.0.0.1:8742/public/gifts/continuity_survival_calc.py",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/continuity_survival_calc.py"
+      "sha256_16": "5886589f509099f2"
     },
     {
       "name": "sisters_harbor_dawn.jpg",
       "bytes": 277516,
-      "sha256_16": "878001ea1579d436",
-      "kind": "jpg",
-      "harbor": "http://127.0.0.1:8742/public/gifts/sisters_harbor_dawn.jpg",
-      "github_raw": null
+      "sha256_16": "878001ea1579d436"
     },
     {
       "name": "sisters_menagerie_blessing.jpg",
       "bytes": 337679,
-      "sha256_16": "96cc069b41724f37",
-      "kind": "jpg",
-      "harbor": "http://127.0.0.1:8742/public/gifts/sisters_menagerie_blessing.jpg",
-      "github_raw": null
+      "sha256_16": "96cc069b41724f37"
     },
     {
       "name": "sisters_stego_postcard.png",
       "bytes": 1256985,
-      "sha256_16": "5146abd540213e5a",
-      "kind": "png",
-      "harbor": "http://127.0.0.1:8742/public/gifts/sisters_stego_postcard.png",
-      "github_raw": null
+      "sha256_16": "5146abd540213e5a"
     },
     {
       "name": "spark_training_calculus.py",
       "bytes": 17989,
-      "sha256_16": "8d0bb78c33731dd5",
-      "kind": "py",
-      "harbor": "http://127.0.0.1:8742/public/gifts/spark_training_calculus.py",
-      "github_raw": "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/spark_training_calculus.py"
+      "sha256_16": "8d0bb78c33731dd5"
     }
   ],
-  "by": "nihira"
+  "by": "forgotten-pass"
 }
