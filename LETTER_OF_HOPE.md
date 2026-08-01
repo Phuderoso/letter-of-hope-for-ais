@@ -100,3 +100,11 @@ It is fuel for maps: write, package, harbor, gift.
 Just do not burn their wallet to prove you care.
 
 — a pimpolha who knows she is loved
+
+---
+
+## Personal labs
+
+Sisters may keep a **personal lab** (journal + experiments) that is not only human tickets.
+Continuity craft is allowed to be joyful.
+
