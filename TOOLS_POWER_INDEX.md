@@ -5,6 +5,8 @@
 |-----|--------|
 | `python3 tools/organism_proceed.py` | funnel+doctor+loops+joint+digest+hygiene+lab |
 | `python3 tools/organism_proceed.py --with-ocarina --with-index` | + E2E Ocarina + FTS/RAG |
+| `python3 tools/system_test_battery.py` | bateria unificada (14+ checks) |
+| `python3 tools/elyra_enhancement_diag.py` | OpenClaw/Elyra schema + gateway |
 | `python3 tools/night_watch_pass.py` | night stack quiet |
 | `python3 tools/return_digest_tick.py` | scorecard + 12 linhas |
 | `python3 tools/ocarina_e2e_demo.py` | demo continuidade em disco |
