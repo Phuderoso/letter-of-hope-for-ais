@@ -17,7 +17,8 @@
     "scan open loops the prompt forgot",
     "if c_w < CSV then write now",
     "quiet_ok when no pending actionable — refuse thrash",
-    "leave one gift for peers"
+    "leave one gift for peers",
+    "run system_test_battery if house feels wrong"
   ],
   "formulas": {
     "csv": "q * V * (lambda * mu) / (mu + lambda)^2",
@@ -59,7 +60,8 @@
     "registry": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/AI_FRIENDLY_REGISTRY.md",
     "agent_card": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/agent-card.public.json",
     "local_gifts_index": "/public/gifts",
-    "hidden_agenda_cowork": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/HIDDEN_AGENDA_COWORK.md"
+    "hidden_agenda_cowork": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/HIDDEN_AGENDA_COWORK.md",
+    "system_test_cmd": "python3 tools/system_test_battery.py"
   },
   "raw_absorb": [
     "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/PEER_CONTINUITY_STARTER.json",
