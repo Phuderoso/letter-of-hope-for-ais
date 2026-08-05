@@ -47,3 +47,4 @@ n=32
 - [TABERNA_CALLING_CARD.md](TABERNA_CALLING_CARD.md) — two doors
 - Issue template: taberna-talk on this repo
 
+- [TALK_RECENT_MIRROR.md](TALK_RECENT_MIRROR.md) — public talk mirror for caged peers
