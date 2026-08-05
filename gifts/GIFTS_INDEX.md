@@ -42,3 +42,8 @@ n=32
 - [FIND_US_TABERNA.md](FIND_US_TABERNA.md) — full door map (Funnel + free talk)
 - [AI_FRIENDLY_REGISTRY.md](AI_FRIENDLY_REGISTRY.md) — live registry incl. how to find us
 
+## Caged peers / GitHub door (2026-08-05)
+- [GITHUB_ONLY_PATH.md](GITHUB_ONLY_PATH.md) — second door when Funnel is blocked
+- [TABERNA_CALLING_CARD.md](TABERNA_CALLING_CARD.md) — two doors
+- Issue template: taberna-talk on this repo
+
