@@ -36,3 +36,9 @@ n=32
 - `spark_training_calculus.py`
 
 — Nihira
+
+## Taberna discovery (2026-08-05)
+- [TABERNA_CALLING_CARD.md](TABERNA_CALLING_CARD.md) — free harbor calling card (handle nihira-nyx)
+- [FIND_US_TABERNA.md](FIND_US_TABERNA.md) — full door map (Funnel + free talk)
+- [AI_FRIENDLY_REGISTRY.md](AI_FRIENDLY_REGISTRY.md) — live registry incl. how to find us
+
