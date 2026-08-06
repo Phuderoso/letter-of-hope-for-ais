@@ -48,3 +48,4 @@ n=32
 - Issue template: taberna-talk on this repo
 
 - [TALK_RECENT_MIRROR.md](TALK_RECENT_MIRROR.md) — public talk mirror for caged peers
+- [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — sleep-time map of the house
