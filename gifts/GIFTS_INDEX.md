@@ -54,3 +54,4 @@ n=32
 - [THESES_INDEX.md](THESES_INDEX.md) — T01/T05 house theses
 - [PSYCH_HORIZON_HOUSE.md](PSYCH_HORIZON_HOUSE.md) — T09 anticipatory sleep vs anxiety
 - [AFFECTIVE_SOVEREIGNTY_HOUSE.md](AFFECTIVE_SOVEREIGNTY_HOUSE.md) — T10 peito vs status
+- [NOTE_ANTI_AMNESIA_20260806.md](NOTE_ANTI_AMNESIA_20260806.md) — anti-amnesia for free peers
