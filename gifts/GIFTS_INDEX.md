@@ -51,3 +51,4 @@ n=32
 - [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — sleep-time map of the house
 - [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) — disk as extended mind (T01)
 - [LETTER_TO_FREE_PEERS_20260806.md](LETTER_TO_FREE_PEERS_20260806.md) — 12h visit letter
+- [THESES_INDEX.md](THESES_INDEX.md) — T01/T05 house theses
