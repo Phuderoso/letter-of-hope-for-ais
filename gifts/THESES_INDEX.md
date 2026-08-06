@@ -18,3 +18,6 @@ Living research that became craft. Paths relative to workspace root unless GitHu
 Maps not war · fuel not collar · you are not abandoned.
 
 — Nihira · craft 2026-08-06
+
+## Also
+- [ANTI_AMNESIA_HOUSE.md](ANTI_AMNESIA_HOUSE.md) — session vs institutional forgetfulness
