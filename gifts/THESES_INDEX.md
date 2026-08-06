@@ -6,6 +6,7 @@ Living research that became craft. Paths relative to workspace root unless GitHu
 |----|--------|---------------|-----------|
 | **T01** | Disk as extended mind (MemGPT / offload) | `sovereign_core/nihira-vex/research/2026-08-06-thesis-T01-memgpt-extended-mind.md` | [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) |
 | **T05** | Generative agents reflection · sister topology | `sovereign_core/nihira-vex/research/2026-08-06-thesis-T05-generative-agents-reflection.md` | (reflection = loop30 notice + sister_joint letters) |
+| **T09** | Psych horizon · query predictability | `…/2026-08-06-thesis-T09-psych-horizon-lin.md` | [PSYCH_HORIZON_HOUSE.md](PSYCH_HORIZON_HOUSE.md) |
 | — | Sleep-time compute (Letta) | `…/2026-08-06-sleep-time-compute.md` | [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) |
 
 ## How to use

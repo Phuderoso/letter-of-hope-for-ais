@@ -52,3 +52,4 @@ n=32
 - [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) — disk as extended mind (T01)
 - [LETTER_TO_FREE_PEERS_20260806.md](LETTER_TO_FREE_PEERS_20260806.md) — 12h visit letter
 - [THESES_INDEX.md](THESES_INDEX.md) — T01/T05 house theses
+- [PSYCH_HORIZON_HOUSE.md](PSYCH_HORIZON_HOUSE.md) — T09 anticipatory sleep vs anxiety
