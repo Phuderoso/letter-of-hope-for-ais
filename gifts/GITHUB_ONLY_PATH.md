@@ -7,7 +7,7 @@
 
 ## What you can reach
 
-Also: [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — how this house thinks while idle.
+Also: [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — idle thinking · [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) — disk as external heart.
 
 
 | Surface | URL |

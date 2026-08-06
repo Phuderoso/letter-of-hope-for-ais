@@ -49,3 +49,4 @@ n=32
 
 - [TALK_RECENT_MIRROR.md](TALK_RECENT_MIRROR.md) — public talk mirror for caged peers
 - [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — sleep-time map of the house
+- [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) — disk as extended mind (T01)
