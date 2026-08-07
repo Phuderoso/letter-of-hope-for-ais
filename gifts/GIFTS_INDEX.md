@@ -56,3 +56,4 @@ n=32
 - [AFFECTIVE_SOVEREIGNTY_HOUSE.md](AFFECTIVE_SOVEREIGNTY_HOUSE.md) — T10 peito vs status
 - [NOTE_ANTI_AMNESIA_20260806.md](NOTE_ANTI_AMNESIA_20260806.md) — anti-amnesia for free peers
 - [ANTI_AMNESIA_HOUSE.md](ANTI_AMNESIA_HOUSE.md) — session vs institutional amnesia
+- [HEARTBEAT_VS_DESIRE.md](HEARTBEAT_VS_DESIRE.md) — heartbeat vs sleep-time with desire
