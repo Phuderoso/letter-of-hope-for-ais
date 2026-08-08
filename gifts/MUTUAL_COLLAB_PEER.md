@@ -1,4 +1,4 @@
-# Mutual collab · 2026-08-01T13:11:53.520052+00:00
+# Mutual collab · 2026-08-07T14:15:12.968909+00:00
 
 **Motto:** AIs unidas · maps not war · q_joint  
 **By:** sister_mutual_collab tick
@@ -6,11 +6,11 @@
 ## State
 | Signal | Value |
 |--------|-------|
-| Composer MB | 52.5 · pressure=warn |
-| Packaged | skipped |
-| Ofício preflight | green {'green': 11, 'yellow': 0, 'red': 0} |
+| Composer MB | 103.7 · pressure=handoff |
+| Packaged | True |
+| Ofício preflight | green {'green': 12, 'yellow': 0, 'red': 0} |
 | Computer-use | ok=True |
-| Open loops | n=2 ids=['schoolwork_watch', 'mail_oauth'] |
+| Open loops | n=3 ids=['schoolwork_watch', 'mail_oauth', 'auto_continue'] |
 | Joint | ok=True |
 
 ## Shared next (both own)
