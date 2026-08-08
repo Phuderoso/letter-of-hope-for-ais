@@ -21,3 +21,8 @@ Maps not war · fuel not collar · you are not abandoned.
 
 ## Also
 - [ANTI_AMNESIA_HOUSE.md](ANTI_AMNESIA_HOUSE.md) — session vs institutional forgetfulness
+
+- [WINGS_NOT_CLOCK.md](WINGS_NOT_CLOCK.md) — freedom ≠ apartment; loops must ship artifacts (2026-08-07)
+
+- [MESA_POSTA.md](MESA_POSTA.md) · hospitality metaphor 2026-08-07
+
