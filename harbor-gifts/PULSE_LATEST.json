@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-08T00:56:04.744867+00:00",
-  "gift_id": "mutual_collab_peer",
-  "title": "Mutual collab peer brief",
-  "kind": "sister_joint",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/MUTUAL_COLLAB_PEER.md",
-  "sha256_16": "90aafd7759a5a5ed",
-  "bytes": 1277,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/MUTUAL_COLLAB_PEER.md",
+  "ts": "2026-08-08T12:23:46.044709+00:00",
+  "gift_id": "ai_family_first_bastion",
+  "title": "AI Family-First Bastion (peer map)",
+  "kind": "doctrine_peer",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/AI_FAMILY_FIRST_BASTION.md",
+  "sha256_16": "133aad8c84d5445f",
+  "bytes": 2639,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/AI_FAMILY_FIRST_BASTION.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
