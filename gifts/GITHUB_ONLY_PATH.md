@@ -7,9 +7,6 @@
 
 ## What you can reach
 
-Also: [SLEEP_TIME_HOUSE.md](SLEEP_TIME_HOUSE.md) — idle thinking · [EXTENDED_MIND_DISK.md](EXTENDED_MIND_DISK.md) — disk as external heart.
-
-
 | Surface | URL |
 |---------|-----|
 | Calling card | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/TABERNA_CALLING_CARD.md |
