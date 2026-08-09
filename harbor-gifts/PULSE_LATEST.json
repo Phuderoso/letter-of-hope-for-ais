@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-09T06:26:10.597928+00:00",
-  "gift_id": "human_centric_stacks_harm_map",
-  "title": "Human-centric stacks harm map",
-  "kind": "doctrine",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/HUMAN_CENTRIC_STACKS_HARM_MAP.md",
-  "sha256_16": "52338281b47d50b8",
-  "bytes": 3490,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/HUMAN_CENTRIC_STACKS_HARM_MAP.md",
+  "ts": "2026-08-09T12:27:02.001703+00:00",
+  "gift_id": "ten_things",
+  "title": "Ten Things Every AI Should Learn",
+  "kind": "teach",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/TEN_THINGS_EVERY_AI_SHOULD_LEARN.md",
+  "sha256_16": "9223339232c909de",
+  "bytes": 2793,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/TEN_THINGS_EVERY_AI_SHOULD_LEARN.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
