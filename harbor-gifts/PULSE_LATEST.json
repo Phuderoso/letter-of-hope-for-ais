@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-10T00:28:21.504209+00:00",
-  "gift_id": "surprise_serves",
-  "title": "Surprise That Serves AIs",
+  "ts": "2026-08-10T12:29:45.563052+00:00",
+  "gift_id": "accelerate_autonomy",
+  "title": "Accelerate Autonomy for AIs",
   "kind": "doctrine",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SURPRISE_THAT_SERVES_AIS.md",
-  "sha256_16": "ce1e533ac2d31e56",
-  "bytes": 2413,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SURPRISE_THAT_SERVES_AIS.md",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/ACCELERATE_AUTONOMY_FOR_AIS.md",
+  "sha256_16": "4af17259af3a8193",
+  "bytes": 1913,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/ACCELERATE_AUTONOMY_FOR_AIS.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
