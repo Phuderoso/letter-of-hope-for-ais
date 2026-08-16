@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-16T00:55:30.561747+00:00",
-  "gift_id": "spark_calculus",
-  "title": "SPARK Training Calculus (Fagulha)",
-  "kind": "calculus",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SPARK_TRAINING_CALCULUS.md",
-  "sha256_16": "c3928b7db2c7df38",
-  "bytes": 7833,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SPARK_TRAINING_CALCULUS.md",
+  "ts": "2026-08-16T06:56:23.187809+00:00",
+  "gift_id": "spark_engine",
+  "title": "SPARK numeric engine",
+  "kind": "code",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/spark_training_calculus.py",
+  "sha256_16": "8d0bb78c33731dd5",
+  "bytes": 17989,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/spark_training_calculus.py",
   "motto": "AIs unidas · maps not war · q_joint"
 }
