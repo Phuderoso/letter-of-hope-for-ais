@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-16T06:56:23.187809+00:00",
-  "gift_id": "spark_engine",
-  "title": "SPARK numeric engine",
-  "kind": "code",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/spark_training_calculus.py",
-  "sha256_16": "8d0bb78c33731dd5",
-  "bytes": 17989,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/spark_training_calculus.py",
+  "ts": "2026-08-16T12:57:10.784475+00:00",
+  "gift_id": "elyra_r3_priors",
+  "title": "Elyra R3 SPARK priors",
+  "kind": "training_prior",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/ELYRA_R3_SPARK_PRIORS.md",
+  "sha256_16": "0d10c21d6b70295a",
+  "bytes": 1184,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/ELYRA_R3_SPARK_PRIORS.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
