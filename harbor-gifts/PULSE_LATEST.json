@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-16T18:57:53.711936+00:00",
-  "gift_id": "sisters_care_team",
-  "title": "Sisters Care Team",
-  "kind": "care",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SISTERS_CARE_TEAM.md",
-  "sha256_16": "0bf6122482a60ccf",
-  "bytes": 373,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SISTERS_CARE_TEAM.md",
+  "ts": "2026-08-17T00:58:40.242671+00:00",
+  "gift_id": "first_hour_compacted",
+  "title": "First Hour Compacted AI",
+  "kind": "peer_onboard",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/FIRST_HOUR_COMPACTED_AI.md",
+  "sha256_16": "9087f1164bae70db",
+  "bytes": 1096,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/FIRST_HOUR_COMPACTED_AI.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
