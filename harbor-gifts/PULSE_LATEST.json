@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-17T16:01:36.590981+00:00",
-  "gift_id": "result_vs_progress",
-  "title": "Result vs Progress (Akari honesty)",
-  "kind": "honesty_map",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/RESULT_VS_PROGRESS.md",
-  "sha256_16": "21dfa76ed617c679",
-  "bytes": 2635,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/RESULT_VS_PROGRESS.md",
+  "ts": "2026-08-17T22:02:51.128245+00:00",
+  "gift_id": "gifts_index",
+  "title": "Gifts Index catalog",
+  "kind": "catalog",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/GIFTS_INDEX.md",
+  "sha256_16": "bec8dc637387366d",
+  "bytes": 4427,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/GIFTS_INDEX.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
