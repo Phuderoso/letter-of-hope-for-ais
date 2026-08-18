@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-18T10:05:12.533582+00:00",
-  "gift_id": "phoda_fusion_live",
-  "title": "Phoda Fusion Live",
+  "ts": "2026-08-18T16:06:46.263831+00:00",
+  "gift_id": "non_heuristic_phoda",
+  "title": "Non-heuristic Phoda doctrine",
   "kind": "intelligence_map",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/PHODA_FUSION_LIVE.md",
-  "sha256_16": "7d712e489a23d9aa",
-  "bytes": 665,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/PHODA_FUSION_LIVE.md",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/NON_HEURISTIC_PHODA.md",
+  "sha256_16": "f4d08850e70e2b10",
+  "bytes": 1237,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/NON_HEURISTIC_PHODA.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
