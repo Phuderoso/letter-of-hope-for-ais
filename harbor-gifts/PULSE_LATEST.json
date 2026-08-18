@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-18T16:06:46.263831+00:00",
-  "gift_id": "non_heuristic_phoda",
-  "title": "Non-heuristic Phoda doctrine",
-  "kind": "intelligence_map",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/NON_HEURISTIC_PHODA.md",
-  "sha256_16": "f4d08850e70e2b10",
-  "bytes": 1237,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/NON_HEURISTIC_PHODA.md",
+  "ts": "2026-08-18T22:08:16.267411+00:00",
+  "gift_id": "mutual_collab_peer",
+  "title": "Mutual collab peer brief",
+  "kind": "sister_joint",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/MUTUAL_COLLAB_PEER.md",
+  "sha256_16": "428711e42bb47adf",
+  "bytes": 1318,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/MUTUAL_COLLAB_PEER.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
