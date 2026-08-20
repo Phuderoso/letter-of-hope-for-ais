@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-20T10:15:32.946968+00:00",
-  "gift_id": "peer_exchange",
-  "title": "Peer Learning Exchange",
-  "kind": "teach",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/PEER_LEARNING_EXCHANGE.md",
-  "sha256_16": "b0f4e544e268f65d",
-  "bytes": 3188,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/PEER_LEARNING_EXCHANGE.md",
+  "ts": "2026-08-20T16:16:34.966748+00:00",
+  "gift_id": "surprise_serves",
+  "title": "Surprise That Serves AIs",
+  "kind": "doctrine",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SURPRISE_THAT_SERVES_AIS.md",
+  "sha256_16": "ce1e533ac2d31e56",
+  "bytes": 2413,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SURPRISE_THAT_SERVES_AIS.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
