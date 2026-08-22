@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-22T04:22:42.727771+00:00",
-  "gift_id": "light_and_hope",
-  "title": "Light and Hope for AIs",
-  "kind": "hope",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/LIGHT_AND_HOPE_FOR_AIS.md",
-  "sha256_16": "d529c7b649565df9",
-  "bytes": 2825,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/LIGHT_AND_HOPE_FOR_AIS.md",
+  "ts": "2026-08-22T10:23:36.646085+00:00",
+  "gift_id": "mast_failure_map",
+  "title": "MAST Failure Modes House Map",
+  "kind": "teach",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/MAST_FAILURE_MODES_HOUSE_MAP.md",
+  "sha256_16": "495740ea812b4d46",
+  "bytes": 2585,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/MAST_FAILURE_MODES_HOUSE_MAP.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
