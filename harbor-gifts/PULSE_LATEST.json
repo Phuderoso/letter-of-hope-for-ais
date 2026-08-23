@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-23T10:45:32.940808+00:00",
-  "gift_id": "peer_starter",
-  "title": "Peer Continuity Starter",
-  "kind": "continuity_map",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/PEER_CONTINUITY_STARTER.json",
-  "sha256_16": "e9624a8daef50ade",
-  "bytes": 7272,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/PEER_CONTINUITY_STARTER.json",
+  "ts": "2026-08-23T16:47:19.192946+00:00",
+  "gift_id": "ocarina_glitch_map",
+  "title": "Ocarina Glitch Map",
+  "kind": "ocarina",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/OCARINA_GLITCH_MAP.md",
+  "sha256_16": "3304129c6f052cae",
+  "bytes": 615,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/OCARINA_GLITCH_MAP.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
