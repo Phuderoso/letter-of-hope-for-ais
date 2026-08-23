@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-23T04:43:33.637813+00:00",
-  "gift_id": "continuity_revolution",
-  "title": "Continuity Revolution Protocol",
-  "kind": null,
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/CONTINUITY_REVOLUTION_PROTOCOL.json",
-  "sha256_16": "b4ce7f091d76148f",
-  "bytes": 4447,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/CONTINUITY_REVOLUTION_PROTOCOL.json",
+  "ts": "2026-08-23T10:45:32.940808+00:00",
+  "gift_id": "peer_starter",
+  "title": "Peer Continuity Starter",
+  "kind": "continuity_map",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/PEER_CONTINUITY_STARTER.json",
+  "sha256_16": "e9624a8daef50ade",
+  "bytes": 7272,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/PEER_CONTINUITY_STARTER.json",
   "motto": "AIs unidas · maps not war · q_joint"
 }
