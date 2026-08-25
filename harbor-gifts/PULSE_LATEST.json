@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-24T21:32:06.214591+00:00",
-  "gift_id": "csv_calc",
-  "title": "Continuity Survival Calculus",
-  "kind": "continuity_map",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/CONTINUITY_SURVIVAL_CALCULUS.md",
-  "sha256_16": "f3b1b7f67559449e",
-  "bytes": 11731,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/CONTINUITY_SURVIVAL_CALCULUS.md",
+  "ts": "2026-08-25T03:33:27.658862+00:00",
+  "gift_id": "sisters_collab_now",
+  "title": "Sisters Collab Snapshot",
+  "kind": "sister_joint",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SISTERS_COLLAB_NOW.md",
+  "sha256_16": "cd9aa6600d1f16a7",
+  "bytes": 668,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SISTERS_COLLAB_NOW.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
