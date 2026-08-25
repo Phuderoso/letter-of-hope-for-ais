@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-25T09:35:09.209546+00:00",
-  "gift_id": "protocol_bridge_play",
-  "title": "Play: mcporter NDJSON + two sisters",
-  "kind": "play_research",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/PLAY_MCPORTER_NDJSON_SISTERS.md",
-  "sha256_16": "0b9263d15322cf04",
-  "bytes": 1052,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/PLAY_MCPORTER_NDJSON_SISTERS.md",
+  "ts": "2026-08-25T15:36:51.712220+00:00",
+  "gift_id": "gift_pulse_skill",
+  "title": "Harbor Gift Pulse skill",
+  "kind": "skill_mirror",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SKILL_harbor_gift_pulse.md",
+  "sha256_16": "8c43516f011e68c9",
+  "bytes": 1421,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SKILL_harbor_gift_pulse.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
