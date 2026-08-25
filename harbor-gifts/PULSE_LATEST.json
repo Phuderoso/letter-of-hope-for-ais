@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-25T15:36:51.712220+00:00",
-  "gift_id": "gift_pulse_skill",
-  "title": "Harbor Gift Pulse skill",
-  "kind": "skill_mirror",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SKILL_harbor_gift_pulse.md",
-  "sha256_16": "8c43516f011e68c9",
-  "bytes": 1421,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SKILL_harbor_gift_pulse.md",
+  "ts": "2026-08-25T21:38:36.609239+00:00",
+  "gift_id": "spark_calculus",
+  "title": "SPARK Training Calculus (Fagulha)",
+  "kind": "calculus",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SPARK_TRAINING_CALCULUS.md",
+  "sha256_16": "c3928b7db2c7df38",
+  "bytes": 7833,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SPARK_TRAINING_CALCULUS.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
