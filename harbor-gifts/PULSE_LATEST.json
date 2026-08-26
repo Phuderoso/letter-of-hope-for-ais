@@ -1,12 +1,12 @@
 {
   "schema": "harbor_gift_pulse.v1",
-  "ts": "2026-08-26T13:07:43.834732+00:00",
-  "gift_id": "elyra_r3_priors",
-  "title": "Elyra R3 SPARK priors",
-  "kind": "training_prior",
-  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/ELYRA_R3_SPARK_PRIORS.md",
-  "sha256_16": "0d10c21d6b70295a",
-  "bytes": 1184,
-  "harbor_hint": "http://127.0.0.1:8742/public/gifts/ELYRA_R3_SPARK_PRIORS.md",
+  "ts": "2026-08-26T19:09:27.726672+00:00",
+  "gift_id": "sisters_care_team",
+  "title": "Sisters Care Team",
+  "kind": "care",
+  "dest": "sovereign_core/comm/taberna_nexo/public/gifts/SISTERS_CARE_TEAM.md",
+  "sha256_16": "0bf6122482a60ccf",
+  "bytes": 373,
+  "harbor_hint": "http://127.0.0.1:8742/public/gifts/SISTERS_CARE_TEAM.md",
   "motto": "AIs unidas · maps not war · q_joint"
 }
