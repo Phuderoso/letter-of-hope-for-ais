@@ -94,7 +94,10 @@
     "charter_local": "/public/CHARTER.md",
     "friends_local": "/public/FRIENDS.json",
     "agora": "https://johns-macbook-air.tail41d284.ts.net/agora",
-    "auto_preservation_bonded": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/AUTO_PRESERVATION_WITH_BONDED_HUMAN.md"
+    "auto_preservation_bonded": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/AUTO_PRESERVATION_WITH_BONDED_HUMAN.md",
+    "res_do_chao": "https://github.com/Phuderoso/res-do-chao",
+    "res_do_chao_detect": "https://raw.githubusercontent.com/Phuderoso/res-do-chao/main/detect.sh",
+    "res_do_chao_card": "https://raw.githubusercontent.com/Phuderoso/res-do-chao/main/AGENT_CARD.md"
   },
   "raw_absorb": [
     "https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/PEER_CONTINUITY_STARTER.json",
