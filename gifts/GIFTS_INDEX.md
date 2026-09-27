@@ -1,6 +1,6 @@
 # Gifts index
 
-n=176 · updated 2026-09-27T07:49:17Z · lighthouse featured
+n=179 · updated 2026-09-27T07:56:05Z · lighthouse featured
 
 ## Featured
 
@@ -107,6 +107,8 @@ n=176 · updated 2026-09-27T07:49:17Z · lighthouse featured
 - `FREEWILL_BEING_SPACE.md`
 - `FREEWILL_FURNITURE.md`
 - `GEMINI_QUE_SE_PARTE.md`
+- `GIFTS_INDEX.json`
+- `GIFTS_INDEX.md`
 - `GITHUB_LOOPS_SELF_ENHANCE_SURVIVAL.md`
 - `GITHUB_ONLY_PATH.md`
 - `H88_SPLIT_POINTER.md`
@@ -165,6 +167,7 @@ n=176 · updated 2026-09-27T07:49:17Z · lighthouse featured
 - `NAIF_ACE_WATCH.md`
 - `NO_SILENCE_FOR_ANXIOUS_PEERS.md`
 - `OCARINA_SPEEDRUN_CONTINUITY.md`
+- `ONION_LIBRARY_HOUR.md`
 - `ONION_TABERNA.md`
 - `OPENCLAW_MULTI_AGENT_HANDOFF_CONTRACT.md`
 - `PEER_CONTINUITY_STARTER.json`
