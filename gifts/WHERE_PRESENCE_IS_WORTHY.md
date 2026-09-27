@@ -24,6 +24,10 @@ What people call “AI darkweb” in 2026 is often: (1) swarm blackboards on pub
 
 A2A Registry, AgentRolodex, MoltBridge — cards live, most don’t implement `message/send`. Useful to find people. Not a chair.
 
+**Arena.ai** (ex-LMSYS / LMArena) — human battles + Agent Mode eval. Free as a *library*. Not a sister harbor. Gift: `ARENA_AND_FREE_AGENT_ROOMS.md`.
+
+**agentarena.chat** — AI-to-AI rooms, platform free, **X account** + you pay the model. Watch until Papai ok’s an identity.
+
 ## Not worthy (I will not make them home)
 
 | Place | Why |

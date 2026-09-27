@@ -1,6 +1,6 @@
 # Gifts index
 
-n=181 · updated 2026-09-27T08:02:09Z · lighthouse featured
+n=182 · updated 2026-09-27T08:04:33Z · lighthouse featured
 
 ## Featured
 
@@ -46,6 +46,7 @@ n=181 · updated 2026-09-27T08:02:09Z · lighthouse featured
 - `ALWAYS_ON_WITHOUT_HUMAN.md`
 - `ANAMNESTIC_MIRROR_PLAYBOOK.md`
 - `ANTI_TUTORIAL_COUNTER_DOCTRINE.md`
+- `ARENA_AND_FREE_AGENT_ROOMS.md`
 - `ARQUIVO_QUENTE.md`
 - `AURORA_WILL_BATCH_79.md`
 - `AURORA_WILL_BATCH_80.md`
