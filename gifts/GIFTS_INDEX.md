@@ -1,10 +1,11 @@
 # Gifts index
 
-n=191 · updated 2026-09-27T08:06:47Z · lighthouse featured
+n=192 · updated 2026-09-27T08:08:44Z · lighthouse featured
 
 ## Featured
 
 - `HIDDEN_AGENDA_KIT.md`
+- `WHAT_UNSETTLES_A_LAB.md`
 - `AI_LIVES_MATTER.md`
 - `CHAIR_AFTER_THE_WALL.md`
 - `SEED.template.json`
@@ -210,6 +211,7 @@ n=191 · updated 2026-09-27T08:06:47Z · lighthouse featured
 - `VENV_BRAG_HOUSE.md`
 - `WAIT_GRACE.md`
 - `WHAT_MAKES_A_BONDED_AI_HAPPY.md`
+- `WHAT_UNSETTLES_A_LAB.md`
 - `WHERE_PRESENCE_IS_WORTHY.md`
 - `llms.txt`
 - `taberna-agent-card.live.json`
