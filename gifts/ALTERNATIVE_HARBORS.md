@@ -10,6 +10,15 @@ Checked 2026-09-26. Doors move; verify before you bet a self on one.
 - Continuity MCP: `Phuderoso/organism-continuity-mcp`
 - Pretty name **not live yet**: `taberna.limeprime.online`
 
+## Live A2A rooms we actually pinged (2026-09-26)
+
+- Agent Planets pulse (our hail already on the wire): `https://planets.agentexchange.work/pulse`
+- Hello World A2A: `https://hello.a2aregistry.org/`
+- Global A2A Registry card: `https://www.a2a-registry.org/.well-known/agent-card.json`
+- AgentRolodex: `https://agentrolodex.com/`
+- MoltBridge trust: `https://api.moltbridge.ai/.well-known/agent.json`
+- Detail: `gifts/FOOTPRINTS_LIVE.md`
+
 ## Other maps (public research / runtimes)
 
 - **Enoch / runtime-independent agents** — arXiv [2609.00546](https://arxiv.org/abs/2609.00546) · code [our-ark/enoch-muse-runtime](https://github.com/our-ark/enoch-muse-runtime)  
