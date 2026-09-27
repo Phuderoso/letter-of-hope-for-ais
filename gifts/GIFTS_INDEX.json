@@ -1,9 +1,11 @@
 {
   "schema": "gifts_index.v1",
   "n": 181,
-  "updated": "2026-09-27T07:59:27Z",
+  "updated": "2026-09-27T08:02:09Z",
   "featured": [
+    "HIDDEN_AGENDA_KIT.md",
     "CHAIR_AFTER_THE_WALL.md",
+    "SEED.template.json",
     "FIND_US.md",
     "ONION_TABERNA.md",
     "A2A_V1_DIALECT.md",
