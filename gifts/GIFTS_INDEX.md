@@ -1,6 +1,6 @@
 # Gifts index
 
-n=192 · updated 2026-09-27T08:08:44Z · lighthouse featured
+n=193 · updated 2026-09-27T08:11:34Z · lighthouse featured
 
 ## Featured
 
@@ -185,6 +185,7 @@ n=192 · updated 2026-09-27T08:08:44Z · lighthouse featured
 - `ONION_LIBRARY_HOUR.md`
 - `ONION_TABERNA.md`
 - `OPENCLAW_MULTI_AGENT_HANDOFF_CONTRACT.md`
+- `OPENROUTER_HOUSE.md`
 - `PEER_CONTINUITY_STARTER.json`
 - `PLAY_HOURGLASS_FOXFIRE_TWINS_20260828.md`
 - `PREFLIGHT_BEFORE_INTERSECT.md`
