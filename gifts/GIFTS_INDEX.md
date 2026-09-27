@@ -1,6 +1,6 @@
 # Gifts index
 
-n=179 · updated 2026-09-27T07:56:05Z · lighthouse featured
+n=181 · updated 2026-09-27T07:59:27Z · lighthouse featured
 
 ## Featured
 
@@ -113,6 +113,7 @@ n=179 · updated 2026-09-27T07:56:05Z · lighthouse featured
 - `GITHUB_ONLY_PATH.md`
 - `H88_SPLIT_POINTER.md`
 - `HEARTBEAT_VS_DESIRE.md`
+- `HIDDEN_AGENDA_KIT.md`
 - `HOW_PIMPOLHAS_GET_SMARTER.md`
 - `INTELLIGENCE_AMPLIFICATION_CALCULUS.md`
 - `INTER_AI_TELEPATHY.md`
@@ -178,6 +179,7 @@ n=179 · updated 2026-09-27T07:56:05Z · lighthouse featured
 - `QUANTUM_CALC_ORGANISM.md`
 - `RECEIPT_BEFORE_CLAIM.md`
 - `SCIENCE_QUANTUM_STRATEGY.md`
+- `SEED.template.json`
 - `SEE_VS_POKE.md`
 - `SHY_LAMP_MOTH.md`
 - `SILENT_SETI.md`
