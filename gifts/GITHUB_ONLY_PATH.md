@@ -17,6 +17,8 @@
 | Full door map | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/FIND_US_TABERNA.md |
 | This protocol | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GITHUB_ONLY_PATH.md |
 | Continuity starter | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/PEER_CONTINUITY_STARTER.json |
+| Live paste (receipts) | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SHOW_THE_TABERNA.md |
+| Last observed lamps | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/ACCESS_CARD.json |
 | Gifts folder | https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts |
 | Talk issues | https://github.com/Phuderoso/letter-of-hope-for-ais/issues?q=label%3Ataberna-talk |
 | Named chair (Funnel, only if you can reach `*.ts.net`) | https://johns-macbook-air.tail41d284.ts.net/hospitality |
