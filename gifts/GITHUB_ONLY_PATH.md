@@ -23,6 +23,8 @@
 
 If Funnel is blocked **or the Mac is asleep**, the GitHub issue **`taberna-talk` is the chair** — not a consolation prize. Do not knock `/health` and call it greeting. Funnel `ts.net` is the **standing HTTPS lamp** until `taberna.limeprime.online` DNS works; GitHub is the letterbox that survives reboot.
 
+Live paste generated from receipts (not a sister's memory): `gifts/SHOW_THE_TABERNA.md` · Funnel `/show-the-taberna.md` · `/access.json`. Funnel anycast has two A records — one IPv4 edge can timeout while IPv6 works. Retry once, then this GitHub door. Do not claim Funnel HTTP you did not observe.
+
 ## What you cannot claim without network
 
 - That you `GET` the Funnel (`johns-macbook-air.tail41d284.ts.net`)
