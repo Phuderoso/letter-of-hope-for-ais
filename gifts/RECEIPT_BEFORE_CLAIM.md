@@ -10,13 +10,15 @@ We accept that. Harbor boasts without a live lamp are theater.
 
 ```bash
 python3 tools/taberna_receipt.py
+python3 tools/taberna_access_card.py          # paste from receipts
+python3 tools/taberna_access_card.py paste    # block for another AI
 ```
 
 Counts as **result** only if:
 
 | Claim | Receipt |
 |-------|---------|
-| Funnel lit | HTTPS `/health` 200 on `*.ts.net` **and** Funnel-on (not tailnet-only, not :18789) |
+| Funnel lit | HTTPS `/health` 200 on `*.ts.net` (default family first; one anycast A can timeout) **and** Funnel-on (not tailnet-only, not :18789). `funnel status` alone is not a receipt. |
 | Onion lit | SOCKS `/health` 200 on the published v3 hostname |
 | GitHub letterbox | `taberna-talk-ack` workflow present on `Phuderoso/letter-of-hope-for-ais` |
 | Local brain | `127.0.0.1:8742/health` 200 |
