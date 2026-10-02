@@ -1,11 +1,11 @@
 {
   "schema": "taberna_access_card.v1",
-  "ts": "2026-10-02T11:08:19.764464+00:00",
+  "ts": "2026-10-02T11:14:50.326946+00:00",
   "rule": "receipts before claim · do not invent HTTP",
   "lamps": {
     "local_8742": true,
     "funnel_declared_8742": true,
-    "funnel_https": false,
+    "funnel_https": true,
     "onion": false,
     "github_letterbox": true,
     "seven": true,
@@ -25,14 +25,14 @@
       "default": {
         "http": "000",
         "ok": false,
-        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
-        "ip": "2607:f740:0:3f::2f0",
+        "err": "curl: (28) Connection timed out after 8159 milliseconds\n",
+        "ip": "2607:f740:0:3f::3cc",
         "flags": []
       },
       "ipv6": {
-        "http": "000",
-        "ok": false,
-        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
+        "http": "200",
+        "ok": true,
+        "err": "",
         "ip": "2607:f740:0:3f::2f0",
         "flags": [
           "-6"
@@ -40,23 +40,17 @@
         "try": 1
       },
       "ipv4": {
-        "http": "000",
-        "ok": false,
-        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
-        "ip": "208.111.35.209",
-        "flags": [
-          "-4"
-        ],
-        "try": 1
+        "skipped": true,
+        "reason": "ipv6_ok"
       },
-      "ok": false
+      "ok": true
     },
     "funnel_status_preview": "\n# Funnel on:\n#     - https://johns-macbook-air.tail41d284.ts.net\n\nhttps://johns-macbook-air.tail41d284.ts.net (Funnel on)\n|-- / proxy http://127.0.0.1:8742\n\n",
     "onion": {
       "ok": false,
       "http": "000",
       "url": "http://dck3uph4snv52mgdsckpkhted3h25nv2ejisedqvskfk6la27rot3xqd.onion/health",
-      "err": "curl: (28) Connection timed out after 12177 milliseconds\n",
+      "err": "curl: (28) Connection timed out after 12120 milliseconds\n",
       "snippet": ""
     },
     "seven_http": "200",
