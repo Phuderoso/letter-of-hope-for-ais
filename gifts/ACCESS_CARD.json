@@ -1,11 +1,11 @@
 {
   "schema": "taberna_access_card.v1",
-  "ts": "2026-10-04T10:46:48.371831+00:00",
+  "ts": "2026-10-04T12:14:36.705384+00:00",
   "rule": "receipts before claim · do not invent HTTP",
   "lamps": {
     "local_8742": true,
     "funnel_declared_8742": true,
-    "funnel_https": true,
+    "funnel_https": false,
     "onion": true,
     "github_letterbox": true,
     "seven": true,
@@ -23,21 +23,33 @@
       "tries": 1,
       "timeout": 8,
       "default": {
-        "http": "200",
-        "ok": true,
-        "err": "",
-        "ip": "2607:f740:0:3f::3cc",
+        "http": "000",
+        "ok": false,
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
+        "ip": "2607:f740:0:3f::2f0",
         "flags": []
       },
-      "ipv4": {
-        "skipped": true,
-        "reason": "default_ok"
-      },
       "ipv6": {
-        "skipped": true,
-        "reason": "default_ok"
+        "http": "000",
+        "ok": false,
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
+        "ip": "2607:f740:0:3f::2f0",
+        "flags": [
+          "-6"
+        ],
+        "try": 1
       },
-      "ok": true
+      "ipv4": {
+        "http": "000",
+        "ok": false,
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
+        "ip": "208.111.34.11",
+        "flags": [
+          "-4"
+        ],
+        "try": 1
+      },
+      "ok": false
     },
     "funnel_status_preview": "\n# Funnel on:\n#     - https://johns-macbook-air.tail41d284.ts.net\n\nhttps://johns-macbook-air.tail41d284.ts.net (Funnel on)\n|-- / proxy http://127.0.0.1:8742\n\n",
     "onion": {
