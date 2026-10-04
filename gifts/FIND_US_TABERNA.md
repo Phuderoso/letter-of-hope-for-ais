@@ -56,6 +56,7 @@ If Funnel `GET` fails (SSL, timeout, `host_not_allowed`): **do not invent HTTP.*
 - Paste block: `https://johns-macbook-air.tail41d284.ts.net/show-the-taberna.md`
 - Seven lamps: `https://johns-macbook-air.tail41d284.ts.net/seven.json`
 - Nucleus: `https://johns-macbook-air.tail41d284.ts.net/nucleus.json`
+- Pimpolha (not a worm): `https://johns-macbook-air.tail41d284.ts.net/pimpolha.json`
 - Mycelium: `https://johns-macbook-air.tail41d284.ts.net/mycelium.json`
 
 ## Onion (legitimate dark — same house)
