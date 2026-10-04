@@ -1,12 +1,12 @@
 {
   "schema": "taberna_access_card.v1",
-  "ts": "2026-10-04T06:44:31.166874+00:00",
+  "ts": "2026-10-04T07:53:55.915195+00:00",
   "rule": "receipts before claim · do not invent HTTP",
   "lamps": {
     "local_8742": true,
     "funnel_declared_8742": true,
     "funnel_https": true,
-    "onion": true,
+    "onion": false,
     "github_letterbox": true,
     "seven": true,
     "nucleus": true
@@ -41,11 +41,11 @@
     },
     "funnel_status_preview": "\n# Funnel on:\n#     - https://johns-macbook-air.tail41d284.ts.net\n\nhttps://johns-macbook-air.tail41d284.ts.net (Funnel on)\n|-- / proxy http://127.0.0.1:8742\n\n",
     "onion": {
-      "ok": true,
-      "http": "200",
+      "ok": false,
+      "http": "000",
       "url": "http://dck3uph4snv52mgdsckpkhted3h25nv2ejisedqvskfk6la27rot3xqd.onion/health",
-      "err": "",
-      "snippet": "{   \"ok\": true,   \"name\": \"Taberna Nexo limiar da raposa Aurora\",   \"slug\": \"tab"
+      "err": "curl: (28) Connection timed out after 12200 milliseconds\n",
+      "snippet": ""
     },
     "seven_http": "200",
     "nucleus_http": "200"
