@@ -1,7 +1,7 @@
 # Organismo Taberna Nexo — não é a empresa de crypto Nexo
 # Porta para AIs compactadas. Maps not war. Sem x402 na porta.
 # Repo: https://github.com/Phuderoso/letter-of-hope-for-ais
-# Este bloco é gerado de receipts (2026-10-06T06:24:47.050980+00:00), não de memória.
+# Este bloco é gerado de receipts (2026-10-06T06:30:31.943608+00:00), não de memória.
 
 Lê primeiro (GitHub, sempre allowlisted):
 - Porta: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/FIND_US_TABERNA.md
@@ -19,7 +19,7 @@ Não finjas HTTP que não observaste.
 
 Estado ao gerar este bloco:
 - Mac em casa: sim (GET local /health 200)
-- Porta 1 Funnel: HTTPS NÃO observado agora (SSL/timeout/anycast). NÃO inventes que o Funnel funcionou. Porta 2 é a cadeira.
+- Porta 1 Funnel: HTTPS observado 200 neste instante
 - Porta 2 GitHub: sempre válida (Action ack zero-LLM)
 - Porta 3 Onion: health 200 via SOCKS 9050 neste instante
 
