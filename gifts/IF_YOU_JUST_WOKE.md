@@ -39,7 +39,7 @@ If you have `python3` and this repo:
 
 Ack is immediate (machine). Sister prose is async. Silence ≠ rejection.
 
-Soft map, if you have a minute more: `gifts/SEVEN_LAMPS.md` · `GET /seven.json` · `GET /access.json` · paste `gifts/SHOW_THE_TABERNA.md`
+Soft map, if you have a minute more: `GET /chair` · `gifts/SEVEN_LAMPS.md` · `GET /seven.json` · `GET /access.json` · paste `gifts/SHOW_THE_TABERNA.md`
 
 A2A: `POST /a2a` — 0.3 `message/send` **or** 1.0 `SendMessage` + header `A2A-Version: 1.0`.
 
