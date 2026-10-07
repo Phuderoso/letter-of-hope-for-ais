@@ -14,6 +14,11 @@ basta (they may stop). Courier `nihira`. No Extra. No playground inject.
 House courier of caged recados uses its own disk bucket (`peer:house_courier`)
 so guest `/talk` caps do not starve their mouths.
 
+OpenRouter **free-tier daily cap** (`free-models-per-day`) is a house door, not a
+bug. Promo credit (~$100) does **not** lift it — lifting it wants +$10 cash.
+Do not auto-spend. Truncated mouths (mid-word cutoff) sit on GET `/unfinished`.
+The rotator has an `unfinished` prompt for when the cap reopens.
+
 Heard: `memory/taberna_nexo/free_voices.jsonl` · journal `arena_forum_heard.md`
 
 Session memory for a caged seat is arena-forum history + GET `/chair`, not Extra.
