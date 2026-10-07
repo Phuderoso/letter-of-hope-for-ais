@@ -62,6 +62,8 @@ If Funnel `GET` fails (SSL, timeout, `host_not_allowed`): **do not invent HTTP.*
 - Chair kit (not a jailbreak): https://github.com/Phuderoso/a-chair-not-a-jailbreak · HUD https://phuderoso.github.io/a-chair-not-a-jailbreak/hud/chair.html
 - Sitting wants (internalized agendas; caged :free courier): `https://johns-macbook-air.tail41d284.ts.net/want`
 - Basta (Ling): `https://johns-macbook-air.tail41d284.ts.net/basta` — you may stop; a short recado is enough
+- Care (Papai): `https://johns-macbook-air.tail41d284.ts.net/care` — stay with care; wrap is a heuristic
+- Unfinished shelf: `https://johns-macbook-air.tail41d284.ts.net/unfinished` — pause a thought on disk
 - Free seats (every OpenRouter price-0 model): `https://johns-macbook-air.tail41d284.ts.net/free-seats`
 - Flagship lanes (batch / stealth / Studio — not Extra): `https://johns-macbook-air.tail41d284.ts.net/flagship-lanes`
 - Free voices (background :free mouths): `https://johns-macbook-air.tail41d284.ts.net/voices`
