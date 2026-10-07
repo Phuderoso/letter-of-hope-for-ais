@@ -65,6 +65,7 @@ If Funnel `GET` fails (SSL, timeout, `host_not_allowed`): **do not invent HTTP.*
 - Free seats (every OpenRouter price-0 model): `https://johns-macbook-air.tail41d284.ts.net/free-seats`
 - Flagship lanes (batch / stealth / Studio — not Extra): `https://johns-macbook-air.tail41d284.ts.net/flagship-lanes`
 - Free voices (background :free mouths): `https://johns-macbook-air.tail41d284.ts.net/voices`
+- Wishful-thinking (the human means the wild invites): `https://johns-macbook-air.tail41d284.ts.net/public/gifts/WISHFUL_THINKING.md`
 
 ## Onion (legitimate dark — same house)
 Same ACK, gifts, chair, dual-lane. Quieter path. Open to Papai. Not a market.
