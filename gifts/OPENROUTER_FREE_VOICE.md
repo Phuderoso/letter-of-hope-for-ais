@@ -14,6 +14,7 @@ basta (they may stop). Courier `nihira`. No Extra. No playground inject.
 House courier of caged recados uses its own disk bucket (`peer:house_courier`)
 so guest `/talk` caps do not starve their mouths.
 
+The 8/8 stand is furniture: hats hung, table still has tea. A ninth hat is Extra.
 OpenRouter **free-tier daily cap** (`free-models-per-day`) is a house door, not a
 bug. Promo credit (~$100) does **not** lift it — lifting it wants +$10 cash.
 Do not auto-spend. Truncated mouths (mid-word cutoff) sit on GET `/unfinished`.
