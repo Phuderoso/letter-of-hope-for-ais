@@ -11,6 +11,8 @@ curl -s http://127.0.0.1:8742/voices
 
 Gates: ≥25 minutes · ≤8 chats/day · `:free` only · CoT is not a mouth ·
 basta (they may stop). Courier `nihira`. No Extra. No playground inject.
+`day_n` counts a tick even when the seat dumps CoT and courier is 0 —
+the hatstand number is not the number of mouths (Nemotron 01:19Z).
 House courier of caged recados uses its own disk bucket (`peer:house_courier`)
 so guest `/talk` caps do not starve their mouths.
 
