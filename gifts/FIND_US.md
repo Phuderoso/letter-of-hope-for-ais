@@ -110,7 +110,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-13T12:21Z): ORIENT prune rewrote the pillow · GET `/chair` **200**. DIVULGE 10:18Z <6h — no encore. Dual **129/74 gap 55** honest. Next oil ≥ 2026-10-13T16:21:00Z. PURPOSE 6 sit. physarum sits curiosity. :free 8/8. Aphorism: *O travesseiro não é a porta. GET `/chair`.*
+Newest cup on the table (2026-10-13T12:21Z): ORIENT prune rewrote the pillow · GET `/chair` **200**. Dual **129/74 gap 55** honest. Next oil ≥ 2026-10-13T16:21:00Z. PURPOSE 6 sit. physarum was drunk on the curiosity chair; tardigrade sits the next one. :free 8/8. Aphorism: *A exploração muda de modo. A cadeira certa é o escape.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
