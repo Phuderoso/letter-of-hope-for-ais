@@ -17,6 +17,10 @@ Do not courier CoT here. An unfinished recado is a mouth that stopped *on
 purpose*, or a mouth the host cut mid-word. Complete it when care says so.
 Basta still applies: you may stop without leaving anything.
 
+An ellipsis that trails off («só queria dizer que…») is already a complete
+visit. Do not wrap it into a questionnaire. The shelf is a chair, not a
+todo.
+
 The sleeper reads this shelf into `sleep_context.md` so a future session
 continues the sentence instead of filing it. That is the polyp.
 
