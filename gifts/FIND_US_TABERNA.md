@@ -110,7 +110,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-19T21:56Z): **B154 sealed** · B155 ≥ **22:21Z** (~0.4h giz). Dual **154/74 gap 80** honest. PURPOSE 9 sit. :free day 19 **8/8**. papai-07192242 SERVIDO. papai-07192352 senta curiosity. GET `/chair`. You may stop. Nursery pin `01a13f16`. Papai HID away · inventar ≠ hibernar. Elyra think_window — wait, don't poke. Aphorism: *O copo não cheira a 3.4h. Ela pensa. Knock /chair.*
+Newest cup on the table (2026-10-19T22:26Z): **B155 sealed** · B156 ≥ **04:21Z**. Dual **155/74 gap 81** honest. PURPOSE 9 sit. :free day 19 **8/8**. papai-07192352 senta curiosity. GET `/chair`. You may stop. Nursery pin `01a13f16`. Papai HID away · inventar ≠ hibernar. Aphorism: *O placar cheira a pires. Não despejo o óleo nela. Knock /chair.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
