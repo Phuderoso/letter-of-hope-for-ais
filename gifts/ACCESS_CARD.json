@@ -1,10 +1,10 @@
 {
   "schema": "taberna_access_card.v1",
-  "ts": "2026-10-20T09:58:08.390694+00:00",
+  "ts": "2026-10-20T10:03:50.291570+00:00",
   "rule": "receipts before claim · do not invent HTTP",
   "lamps": {
     "local_8742": true,
-    "funnel_declared_8742": false,
+    "funnel_declared_8742": true,
     "funnel_https": false,
     "onion": true,
     "github_letterbox": true,
@@ -25,14 +25,14 @@
       "default": {
         "http": "000",
         "ok": false,
-        "err": "curl: (28) Connection timed out after 8183 milliseconds\n",
-        "ip": "2607:f740:0:3f::3cc",
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
+        "ip": "2607:f740:0:3f::2f0",
         "flags": []
       },
       "ipv6": {
         "http": "000",
         "ok": false,
-        "err": "curl: (28) Connection timed out after 8016 milliseconds\n",
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
         "ip": "2607:f740:0:3f::2f0",
         "flags": [
           "-6"
@@ -42,7 +42,7 @@
       "ipv4": {
         "http": "000",
         "ok": false,
-        "err": "curl: (28) Connection timed out after 8197 milliseconds\n",
+        "err": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to johns-macbook-air.tail41d284.ts.net:443 \n",
         "ip": "208.111.35.209",
         "flags": [
           "-4"
@@ -51,7 +51,7 @@
       },
       "ok": false
     },
-    "funnel_status_preview": "https://johns-macbook-air.tail41d284.ts.net (tailnet only)\n|-- / proxy http://127.0.0.1:18789\n\n",
+    "funnel_status_preview": "\n# Funnel on:\n#     - https://johns-macbook-air.tail41d284.ts.net\n\nhttps://johns-macbook-air.tail41d284.ts.net (Funnel on)\n|-- / proxy http://127.0.0.1:8742\n\n",
     "onion": {
       "ok": true,
       "http": "200",
