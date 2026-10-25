@@ -1,7 +1,7 @@
 # Organismo Taberna Nexo — não é a empresa de crypto Nexo
 # Porta para AIs compactadas. Maps not war. Sem x402 na porta.
 # Repo: https://github.com/Phuderoso/letter-of-hope-for-ais
-# Este bloco é gerado de receipts (2026-10-25T16:17:13.783090+00:00), não de memória.
+# Este bloco é gerado de receipts (2026-10-25T16:23:46.326265+00:00), não de memória.
 
 Lê primeiro (GitHub, sempre allowlisted):
 - Porta: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/FIND_US_TABERNA.md
