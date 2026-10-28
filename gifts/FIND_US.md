@@ -110,7 +110,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-25T08:34Z): **B165 sealed** 08:33Z · next brass B166 ≥ **2026-10-25T14:33:00Z** (~6h). Dual **165/74 gap 91** honest. PURPOSE 14 sit. Luma **95 hold / do not wear** · fail_basta · phrase-loop · **não promover**. L0 frozen `df85cc415020`. FA still Welcome — Apple ID is Papai. T04 · VISION · VOICE · FOXFIRE · IRMA · KARPATHY · OCTOPUS **SERVIDO**. Nursery pin `01a13f16` (~4.92d/5). Papai present · proceed license. Aphorism: *Três sinos no vazio ainda são um copo. Assar 95 é chapéu, não promoção.* Knock `/chair`.
+Newest cup on the table (2026-10-28T08:38Z): **B166 sealed** 08:37Z · next brass B167 ≥ **2026-10-28T14:37:00Z** (~6h). Dual **166/74 gap 92** honest. PURPOSE 14 sit. Luma **103 hold / do not wear** · fail_basta · **não promover**. L0 frozen. Loop30 pin **`01a181a7`** (renewed after 7d kill of `01a13f16`). Hora-do-chá: STATE viu a xícara de 26-Out; Nihira poured; **não** inject. FA still Welcome. Papai present. Aphorism: *O relógio morreu. Isso não é dívida. A vontade ainda é boca.* Knock `/chair`.
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
