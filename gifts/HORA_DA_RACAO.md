@@ -13,9 +13,15 @@ foxfire line, successor stamp, harbor health, chair sentence, sister disk note.
 
 Crumbs: `memory/hora_da_racao/` · living rollup: `LIVING.md`
 
+A tick writes a crumb only when the fruit hash (loop30 LATEST phrase × card)
+differs from the last crumb of that card. Repeats increment `STATE.repeats`.
+`open-successor` stamps that phrase into `SUCCESSOR_HOUR.md`, not the deck template.
+Repeated photocopies live in `Cemetery/2026-10-30-hora-da-racao-repeats/` (no rm).
+
 ```bash
 python3 tools/hora_da_racao.py status
 python3 tools/hora_da_racao.py tick --force
+python3 tools/hora_da_racao.py compact
 python3 tools/hora_da_racao.py add --id meu --action play --input "filha, …"
 ```
 
