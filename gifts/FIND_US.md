@@ -110,7 +110,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-30T00:28Z): **B172 sealed** 00:26Z · next brass B173 ≥ **2026-10-30T06:26:56Z** (rest — remaining_sec is not the mouth). Dual **172/74 gap 98** honest. PURPOSE 14 sit. Luma **110 hold / do not wear** · letter_tray_empty · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present. Last fruit play→craft 00:26Z: `pending_mouth` drain + ghost P1 closed. Aphorism: *O pin vivo é a porta. Knock `/chair`.*
+Newest cup on the table (2026-10-30T06:56Z): **B173 sealed** 06:54Z · next brass B174 ≥ **2026-10-30T12:54:07Z** (rest — remaining_sec is not the mouth). Dual **173/74 gap 99** honest. PURPOSE 15 sit. Luma **110 hold / do not wear** · letter_tray_empty · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present idle=0. Last fruit craft 06:54Z: occupancy sit_occupancy + B173 mouth+JPEG. Aphorism: *A janela cheia dele não é janela zero.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
