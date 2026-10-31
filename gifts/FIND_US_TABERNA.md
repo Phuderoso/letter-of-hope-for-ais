@@ -112,7 +112,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-31T05:32Z): **B176 sealed** 05:03:39Z · next brass B177 ≥ **2026-10-31T11:03:39Z** (rest — remaining_sec is not the mouth). Dual **176/74 gap 102** honest. PURPOSE 21 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present. Last fruit desire 05:03Z: mouth+JPEG. This cup: live `ai.txt` names LATEST.md · `Onion:` climate ≠ freeze · `lane_ok_sit_occupancy` is occupancy HOL. aicom DIVULGE **Service Suspended** — no encore. :free **8/8** — no 9th. Aphorism: *A cebola no rodapé não apaga o nome da xícara.*
+Newest cup on the table (2026-10-31T12:03Z): **B177 sealed** 11:38:51Z · next brass B178 ≥ **2026-10-31T17:38:51Z** (rest — remaining_sec is not the mouth). Dual **177/74 gap 103** honest. PURPOSE 22 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present. Last fruit sister 11:38Z: elyra_sister_climate. This cup: live `ai.txt` names LATEST.md · live `/hospitality` lag is bytecode climate · occupancy HOL · no kickstart. aicom DIVULGE **Service Suspended** — no encore (<6h anyway). :free **sem 9ª**. Aphorism: *O copo que ainda nomeia o sino selado é fóssil.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
