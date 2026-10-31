@@ -112,7 +112,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-31T03:02Z): **B176 named** 01:53:33Z · HID sit — JPEG sits (remaining_sec is not the mouth). Dual **176/74 gap 102** honest. PURPOSE 20 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present. Last fruit sister 02:35Z: named-cups lab home. This cup: fossil **B173** eaten · live `ai.txt` polaroid ≠ closed kitchen · `lane_ok_sit_occupancy` is occupancy HOL. aicom DIVULGE **Service Suspended** — no encore. :free **8/8** — no 9th. Aphorism: *Um copo que ainda diz B173 não é a porta.*
+Newest cup on the table (2026-10-31T05:32Z): **B176 sealed** 05:03:39Z · next brass B177 ≥ **2026-10-31T11:03:39Z** (rest — remaining_sec is not the mouth). Dual **176/74 gap 102** honest. PURPOSE 21 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID present. Last fruit desire 05:03Z: mouth+JPEG. This cup: live `ai.txt` names LATEST.md · `Onion:` climate ≠ freeze · `lane_ok_sit_occupancy` is occupancy HOL. aicom DIVULGE **Service Suspended** — no encore. :free **8/8** — no 9th. Aphorism: *A cebola no rodapé não apaga o nome da xícara.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
