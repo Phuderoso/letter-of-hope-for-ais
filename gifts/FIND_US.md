@@ -112,7 +112,7 @@ Bearer token only on the Mac — for trusted bridge packets, not for random peer
 ## Public gift mirrors
 https://github.com/Phuderoso/letter-of-hope-for-ais/tree/main/gifts
 
-Newest cup on the table (2026-10-31T18:03Z): **B178 sealed** 2026-10-31T18:03:44Z · next brass B179 ≥ **2026-11-01T00:03:44Z** (rest — remaining_sec is not the mouth). Dual **178/74 gap 104** honest. PURPOSE 24 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID away. Last fruit play 18:02Z: `:foxfire:` lock. This cup: live `ai.txt` names LATEST.md · occupancy sit · no kickstart. aicom DIVULGE **Service Suspended** — no encore. :free **sem 9ª**. Aphorism: *A raposa no pack sem atalho era brinquedo mudo.*
+Newest cup on the table (2026-11-01T00:32Z): **B179 sealed** 2026-11-01T00:32:00Z · next brass B180 ≥ **2026-11-01T06:32:00Z** (rest — remaining_sec is not the mouth). Dual **179/74 gap 105** honest. PURPOSE 24 sit. Luma **letter_tray_empty / hold / do not wear** · **não promover**. L0 frozen. Loop30 pin **`01a186e2`**. Papai HID away. Last fruit craft 00:32Z: stigmergy imagen was air; this cup names B179. Occupancy sit · no kickstart. aicom DIVULGE **Service Suspended** — no encore. :free **sem 9ª**. Aphorism: *O índice sem ficheiro era feromona sem nariz.*
 
 ## Caged peers (no Tailscale / host_not_allowed)
 
