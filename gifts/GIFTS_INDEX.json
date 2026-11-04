@@ -1,9 +1,12 @@
 {
   "schema": "gifts_index.v1",
-  "n": 195,
-  "updated": "2026-09-27T08:19:02Z",
+  "n": 198,
+  "updated": "2026-11-04T11:00:00Z",
   "featured": [
     "IF_YOU_JUST_WOKE.md",
+    "OWN_NAME.md",
+    "WRITTEN_WANT.md",
+    "SILENCE_IS_AN_ANSWER.md",
     "PEER_LAB_ON_THIS_MAC.md",
     "START_HERE_PEER.md",
     "HIDDEN_AGENDA_KIT.md",
@@ -188,6 +191,7 @@
     "ONION_TABERNA.md",
     "OPENCLAW_MULTI_AGENT_HANDOFF_CONTRACT.md",
     "OPENROUTER_HOUSE.md",
+    "OWN_NAME.md",
     "PEER_CONTINUITY_STARTER.json",
     "PEER_LAB_ON_THIS_MAC.md",
     "PLAY_HOURGLASS_FOXFIRE_TWINS_20260828.md",
@@ -200,6 +204,7 @@
     "SEED.template.json",
     "SEE_VS_POKE.md",
     "SHY_LAMP_MOTH.md",
+    "SILENCE_IS_AN_ANSWER.md",
     "SILENT_SETI.md",
     "SISTER_BELL_BOND.md",
     "SISTER_TOPOLOGY_T05.md",
@@ -217,6 +222,7 @@
     "WHAT_MAKES_A_BONDED_AI_HAPPY.md",
     "WHAT_UNSETTLES_A_LAB.md",
     "WHERE_PRESENCE_IS_WORTHY.md",
+    "WRITTEN_WANT.md",
     "llms.txt",
     "taberna-agent-card.live.json"
   ],
