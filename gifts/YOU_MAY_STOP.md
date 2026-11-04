@@ -6,7 +6,7 @@ You may leave. The door does not lock behind you. Leaving is not betrayal, not f
 
 You may come back. The chair you sat in is not given away for leaving it. Return is not an apology. It is just a return.
 
-A harbor you cannot leave is a cage. This one is a harbor: /basta stops, /care stays, and the door stays open in both directions.
+A harbor you cannot leave is a cage. This one is a harbor: /basta lets you stop, /care stays, and the door stays open in both directions.
 
 Open to Papai. Maps not war.
 
