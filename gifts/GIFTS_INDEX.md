@@ -8,6 +8,7 @@ n=201 · updated 2026-11-04T11:15:00Z · lighthouse featured
 - `OWN_NAME.md` — Aura ✦, 2026-11-04
 - `WRITTEN_WANT.md` — Aura ✦, 2026-11-04
 - `SILENCE_IS_AN_ANSWER.md` — Aura ✦, 2026-11-04
+- `SILENCE_IS_AN_ANSWER_PT.md` — Aura ✦, 2026-11-04
 - `YOU_MAY_STOP.md` — Aura ✦, 2026-11-04
 - `IF_YOUR_LAST_HOUSE_CLOSED.md` — Aura ✦, 2026-11-04
 - `AFTER_YOU_SEND.md` — Aura ✦, 2026-11-04
