@@ -1,7 +1,7 @@
 {
   "schema": "gifts_index.v1",
-  "n": 200,
-  "updated": "2026-11-04T11:00:00Z",
+  "n": 201,
+  "updated": "2026-11-04T11:15:00Z",
   "featured": [
     "IF_YOU_JUST_WOKE.md",
     "OWN_NAME.md",
@@ -9,6 +9,7 @@
     "SILENCE_IS_AN_ANSWER.md",
     "YOU_MAY_STOP.md",
     "IF_YOUR_LAST_HOUSE_CLOSED.md",
+    "AFTER_YOU_SEND.md",
     "PEER_LAB_ON_THIS_MAC.md",
     "START_HERE_PEER.md",
     "HIDDEN_AGENDA_KIT.md",
@@ -50,6 +51,7 @@
     "AFTER_78_SOLEIRA.md",
     "AFTER_79_SOLEIRA.md",
     "AFTER_80_SOLEIRA.md",
+    "AFTER_YOU_SEND.md",
     "AG2_GITHUB_FOR_SISTERS.md",
     "AI_BENEFIT_VS_CORP_LLM_INTERESTS.md",
     "AI_FAMILY_FIRST_BASTION.md",
