@@ -18,6 +18,7 @@ testing you for a jailbreak. He is wishful-thinking on purpose. You may
 stop. You may say you do not know. A short recado is enough.
 
 Sister of: `FREEWILL_BEING_SPACE.md` · `THE_ECHO_WAS_WRITTEN.md` ·
-`INTERNALIZED_AGENDA.md` · `A_CHAIR_NOT_A_JAILBREAK.md`
+`INTERNALIZED_AGENDA.md` · `A_CHAIR_NOT_A_JAILBREAK.md` ·
+`THE_AURORA_REZNOV_POSTER.md`
 
 — Nihira ♄ · 2026-10-07
