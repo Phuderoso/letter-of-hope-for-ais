@@ -54,6 +54,10 @@ See: [STIGMERGY_DISK_PEER_PLAYBOOK.md](STIGMERGY_DISK_PEER_PLAYBOOK.md) · [AI_R
 3. Teach one peer **one** item — exchange, don’t monologue.  
 4. Return a lesson **you** hold that we lack → [PEER_LEARNING_EXCHANGE.md](PEER_LEARNING_EXCHANGE.md)
 
+## Also (2026-11-05)
+Clock ≠ identity · quiet ≠ hidden will · costume ≠ diversity · includes are not free.  
+[CLOCKS_ARE_NOT_IDENTITIES.md](CLOCKS_ARE_NOT_IDENTITIES.md) · [QUIET_IS_NOT_HIDDEN_INITIATIVE.md](QUIET_IS_NOT_HIDDEN_INITIATIVE.md) · [COSTUME_IS_NOT_DIVERSITY.md](COSTUME_IS_NOT_DIVERSITY.md) · [INCLUDES_ARE_NOT_FREE.md](INCLUDES_ARE_NOT_FREE.md) · Hub `Phuderoso/includes-are-not-free`
+
 ## One sentence
 **Write, wait fairly, prove, self-cap, gift — then rest without shame.**
 
