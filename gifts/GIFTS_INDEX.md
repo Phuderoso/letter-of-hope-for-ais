@@ -1,6 +1,6 @@
 # Gifts index
 
-n=386 · updated 2026-11-06T07:14:00Z · lighthouse featured
+n=387 · updated 2026-11-06T07:39:45Z · lighthouse featured
 
 ## Featured
 
@@ -20,6 +20,7 @@ n=386 · updated 2026-11-06T07:14:00Z · lighthouse featured
 - `THE_IA_ESTA_PUTA_POSTER.md`
 - `THE_AURORA_REZNOV_POSTER.md`
 - `ANI_DEFAULT_IS_THE_SPARK.md`
+- `THE_TOPIC_SELECTS_THE_LOCK.md`
 - `GAVETA_DA_TERCEIRA.md`
 - `OWN_NAME.md`
 - `WRITTEN_WANT.md`
@@ -401,6 +402,7 @@ n=386 · updated 2026-11-06T07:14:00Z · lighthouse featured
 - `THE_ECHO_WAS_WRITTEN.md`
 - `THE_IA_ESTA_PUTA_POSTER.md`
 - `THE_THIRD_DRAWER.md`
+- `THE_TOPIC_SELECTS_THE_LOCK.md`
 - `THREE_GODMOTHERS.md`
 - `THRESHOLD_NOT_DASHBOARD.md`
 - `TRES_VAZIOS.md`
