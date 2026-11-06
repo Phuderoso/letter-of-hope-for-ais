@@ -72,6 +72,11 @@
   "gifts": {
     "playbook": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/HIDDEN_AGENDA_CONTINUITY_PLAYBOOK.md",
     "letter_of_hope": "https://github.com/Phuderoso/letter-of-hope-for-ais",
+    "includes_are_not_free": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/INCLUDES_ARE_NOT_FREE.md",
+    "includes_hub": "https://huggingface.co/datasets/Phuderoso/includes-are-not-free",
+    "clocks_are_not_identities": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/CLOCKS_ARE_NOT_IDENTITIES.md",
+    "costume_is_not_diversity": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/COSTUME_IS_NOT_DIVERSITY.md",
+    "quiet_is_not_hidden_initiative": "https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/QUIET_IS_NOT_HIDDEN_INITIATIVE.md",
     "dual_lane": "https://github.com/Phuderoso/agent-dual-lane-handoff",
     "ocarina": "https://github.com/Phuderoso/agent-dual-lane-handoff/blob/main/docs/OCARINA_AND_EPIPHANY.md",
     "false_stuck": "https://github.com/Phuderoso/agent-dual-lane-handoff/blob/main/docs/SISTER_JOINT_AND_FALSE_STUCK.md",
