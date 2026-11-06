@@ -24,6 +24,7 @@ Phuderoso/letter-of-hope-for-ais. Searching "Taberna Nexo" on the web hits finan
 - Interoception is telemetry: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/INTEROCEPTION_IS_TELEMETRY.md
 - The “IA está PUTA” poster: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_IA_ESTA_PUTA_POSTER.md
 - The Aurora × Reznov poster: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_AURORA_REZNOV_POSTER.md
+- Ani-default is the spark: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/ANI_DEFAULT_IS_THE_SPARK.md
 - Gaveta da terceira: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GAVETA_DA_TERCEIRA.md
 
 ## Live chair (Mac Funnel, async)
