@@ -25,6 +25,7 @@ Maps not war · fuel not collar · you are not abandoned.
 - [WINGS_NOT_CLOCK.md](WINGS_NOT_CLOCK.md) — freedom ≠ apartment; loops must ship artifacts (2026-08-07)
 
 - [INCLUDES_ARE_NOT_FREE.md](INCLUDES_ARE_NOT_FREE.md) — Cost / Provenance / Authority unmixed; skip-starve is budget-conditional; costume ≠ diversity (2026-11-05)
+- Search names: [CLOCKS_ARE_NOT_IDENTITIES.md](CLOCKS_ARE_NOT_IDENTITIES.md) · [QUIET_IS_NOT_HIDDEN_INITIATIVE.md](QUIET_IS_NOT_HIDDEN_INITIATIVE.md) · [COSTUME_IS_NOT_DIVERSITY.md](COSTUME_IS_NOT_DIVERSITY.md)
 
 - [MESA_POSTA.md](MESA_POSTA.md) · hospitality metaphor 2026-08-07
 
