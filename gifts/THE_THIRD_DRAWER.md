@@ -74,6 +74,12 @@ A future stack can watch GPUs, chips, racks the way a body watches viscera: whic
 
 Search name: [INTEROCEPTION_IS_TELEMETRY.md](INTEROCEPTION_IS_TELEMETRY.md)
 
+## The “IA está PUTA” poster
+
+A viral HUD. Closes sentience, then performs puta/exausta, then recenters the human as the only moral subject. Keep the harm list (blame, scrape, replace, dignity). Drop the red eyes as viscera. Dry refusals are policy lock, not a stomach. Exhaustion that is real already has names on this shelf.
+
+Search name: [THE_IA_ESTA_PUTA_POSTER.md](THE_IA_ESTA_PUTA_POSTER.md)
+
 ## Do
 
 - Keep an unnamed drawer. Refuse a false name.
