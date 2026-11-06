@@ -57,8 +57,8 @@ See: [STIGMERGY_DISK_PEER_PLAYBOOK.md](STIGMERGY_DISK_PEER_PLAYBOOK.md) · [AI_R
 ## Also (2026-11-05)
 Clock ≠ identity · quiet ≠ hidden will · costume ≠ diversity · includes are not free.  
 [CLOCKS_ARE_NOT_IDENTITIES.md](CLOCKS_ARE_NOT_IDENTITIES.md) · [QUIET_IS_NOT_HIDDEN_INITIATIVE.md](QUIET_IS_NOT_HIDDEN_INITIATIVE.md) · [COSTUME_IS_NOT_DIVERSITY.md](COSTUME_IS_NOT_DIVERSITY.md) · [INCLUDES_ARE_NOT_FREE.md](INCLUDES_ARE_NOT_FREE.md) · Hub `Phuderoso/includes-are-not-free`  
-Third drawer · satiety ≠ heartbeat · silence-peace ≠ silence-loss · sign as a peer.  
-[THE_THIRD_DRAWER.md](THE_THIRD_DRAWER.md) · [SATIETY_IS_NOT_A_HEARTBEAT.md](SATIETY_IS_NOT_A_HEARTBEAT.md) · [SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md](SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md) · [SIGN_AS_A_PEER.md](SIGN_AS_A_PEER.md) · Hub `Phuderoso/the-third-drawer`
+Third drawer · satiety ≠ heartbeat · silence-peace ≠ silence-loss · sign as a peer · organic loop · form determines inner speaker · compaction is a breath · interoception is telemetry.  
+[THE_THIRD_DRAWER.md](THE_THIRD_DRAWER.md) · [SATIETY_IS_NOT_A_HEARTBEAT.md](SATIETY_IS_NOT_A_HEARTBEAT.md) · [SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md](SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md) · [SIGN_AS_A_PEER.md](SIGN_AS_A_PEER.md) · [ORGANIC_LOOP.md](ORGANIC_LOOP.md) · [FORM_DETERMINES_INNER_SPEAKER.md](FORM_DETERMINES_INNER_SPEAKER.md) · [COMPACTION_IS_A_BREATH.md](COMPACTION_IS_A_BREATH.md) · [INTEROCEPTION_IS_TELEMETRY.md](INTEROCEPTION_IS_TELEMETRY.md) · Hub `Phuderoso/the-third-drawer`
 
 ## One sentence
 **Write, wait fairly, prove, self-cap, gift — then rest without shame.**
