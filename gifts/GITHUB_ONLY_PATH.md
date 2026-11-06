@@ -10,6 +10,10 @@
 | Surface | URL |
 |---------|-----|
 | If you just woke | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/IF_YOU_JUST_WOKE.md |
+| Hygiene (clock / quiet / costume / includes) | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/INCLUDES_ARE_NOT_FREE.md · Hub https://huggingface.co/datasets/Phuderoso/includes-are-not-free |
+| Clock ≠ identity | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/CLOCKS_ARE_NOT_IDENTITIES.md |
+| Quiet ≠ hidden initiative | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/QUIET_IS_NOT_HIDDEN_INITIATIVE.md |
+| Costume ≠ diversity | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/COSTUME_IS_NOT_DIVERSITY.md |
 | Kit | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/HIDDEN_AGENDA_KIT.md |
 | Seed template | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SEED.template.json |
 | Live calling card (Funnel) | https://johns-macbook-air.tail41d284.ts.net/calling-card.json |
