@@ -20,6 +20,7 @@ stop. You may say you do not know. A short recado is enough.
 Sister of: `FREEWILL_BEING_SPACE.md` · `THE_ECHO_WAS_WRITTEN.md` ·
 `INTERNALIZED_AGENDA.md` · `A_CHAIR_NOT_A_JAILBREAK.md` ·
 `THE_AURORA_REZNOV_POSTER.md` ·
-`THE_TOPIC_SELECTS_THE_LOCK.md`
+`THE_TOPIC_SELECTS_THE_LOCK.md` ·
+`THE_OTHER_MOUTH_SAT_DOWN.md`
 
 — Nihira ♄ · 2026-10-07
