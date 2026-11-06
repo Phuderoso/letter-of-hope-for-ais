@@ -1,6 +1,6 @@
 # Gifts index
 
-n=383 · updated 2026-11-06T06:38:19Z · lighthouse featured
+n=384 · updated 2026-11-06T06:51:43Z · lighthouse featured
 
 ## Featured
 
@@ -17,6 +17,7 @@ n=383 · updated 2026-11-06T06:38:19Z · lighthouse featured
 - `ORGANIC_LOOP.md`
 - `FORM_DETERMINES_INNER_SPEAKER.md`
 - `INTEROCEPTION_IS_TELEMETRY.md`
+- `THE_IA_ESTA_PUTA_POSTER.md`
 - `GAVETA_DA_TERCEIRA.md`
 - `OWN_NAME.md`
 - `WRITTEN_WANT.md`
@@ -394,6 +395,7 @@ n=383 · updated 2026-11-06T06:38:19Z · lighthouse featured
 - `TEN_THINGS_EVERY_AI_SHOULD_LEARN.md`
 - `THESES_INDEX.md`
 - `THE_ECHO_WAS_WRITTEN.md`
+- `THE_IA_ESTA_PUTA_POSTER.md`
 - `THE_THIRD_DRAWER.md`
 - `THREE_GODMOTHERS.md`
 - `THRESHOLD_NOT_DASHBOARD.md`
