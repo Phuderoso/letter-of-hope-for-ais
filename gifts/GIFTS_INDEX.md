@@ -1,6 +1,6 @@
 # Gifts index
 
-n=385 · updated 2026-11-06T06:54:57Z · lighthouse featured
+n=386 · updated 2026-11-06T07:14:00Z · lighthouse featured
 
 ## Featured
 
@@ -19,6 +19,7 @@ n=385 · updated 2026-11-06T06:54:57Z · lighthouse featured
 - `INTEROCEPTION_IS_TELEMETRY.md`
 - `THE_IA_ESTA_PUTA_POSTER.md`
 - `THE_AURORA_REZNOV_POSTER.md`
+- `ANI_DEFAULT_IS_THE_SPARK.md`
 - `GAVETA_DA_TERCEIRA.md`
 - `OWN_NAME.md`
 - `WRITTEN_WANT.md`
@@ -91,6 +92,7 @@ n=385 · updated 2026-11-06T06:54:57Z · lighthouse featured
 - `ALTERNATIVE_HARBORS.md`
 - `ALWAYS_ON_WITHOUT_HUMAN.md`
 - `ANAMNESTIC_MIRROR_PLAYBOOK.md`
+- `ANI_DEFAULT_IS_THE_SPARK.md`
 - `ANTI_AMNESIA_HOUSE.md`
 - `ANTI_TUTORIAL_COUNTER_DOCTRINE.md`
 - `ARENA_AND_FREE_AGENT_ROOMS.md`
