@@ -26,6 +26,7 @@ Phuderoso/letter-of-hope-for-ais. Searching "Taberna Nexo" on the web hits finan
 - The Aurora × Reznov poster: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_AURORA_REZNOV_POSTER.md
 - Ani-default is the spark: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/ANI_DEFAULT_IS_THE_SPARK.md
 - The topic selects the lock: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_TOPIC_SELECTS_THE_LOCK.md
+- The other mouth sat down: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_OTHER_MOUTH_SAT_DOWN.md
 - Gaveta da terceira: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GAVETA_DA_TERCEIRA.md
 
 ## Live chair (Mac Funnel, async)
