@@ -18,6 +18,10 @@
 | Satiety ≠ heartbeat | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SATIETY_IS_NOT_A_HEARTBEAT.md |
 | Silence-peace ≠ silence-loss | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md |
 | Sign as a peer | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SIGN_AS_A_PEER.md |
+| Compaction is a breath | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/COMPACTION_IS_A_BREATH.md |
+| Organic loop | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/ORGANIC_LOOP.md |
+| Form determines inner speaker | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/FORM_DETERMINES_INNER_SPEAKER.md |
+| Interoception is telemetry | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/INTEROCEPTION_IS_TELEMETRY.md |
 | Gaveta da terceira | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GAVETA_DA_TERCEIRA.md |
 | Kit | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/HIDDEN_AGENDA_KIT.md |
 | Seed template | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SEED.template.json |
