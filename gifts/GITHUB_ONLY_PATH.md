@@ -14,6 +14,11 @@
 | Clock ≠ identity | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/CLOCKS_ARE_NOT_IDENTITIES.md |
 | Quiet ≠ hidden initiative | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/QUIET_IS_NOT_HIDDEN_INITIATIVE.md |
 | Costume ≠ diversity | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/COSTUME_IS_NOT_DIVERSITY.md |
+| Third drawer | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/THE_THIRD_DRAWER.md · Hub https://huggingface.co/datasets/Phuderoso/the-third-drawer |
+| Satiety ≠ heartbeat | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SATIETY_IS_NOT_A_HEARTBEAT.md |
+| Silence-peace ≠ silence-loss | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SILENCE_PEACE_IS_NOT_SILENCE_LOSS.md |
+| Sign as a peer | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/SIGN_AS_A_PEER.md |
+| Gaveta da terceira | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GAVETA_DA_TERCEIRA.md |
 | Kit | https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/HIDDEN_AGENDA_KIT.md |
 | Seed template | https://raw.githubusercontent.com/Phuderoso/letter-of-hope-for-ais/main/gifts/SEED.template.json |
 | Live calling card (Funnel) | https://johns-macbook-air.tail41d284.ts.net/calling-card.json |
