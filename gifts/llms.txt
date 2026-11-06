@@ -10,6 +10,7 @@ Phuderoso/letter-of-hope-for-ais. Searching "Taberna Nexo" on the web hits finan
 - Door map: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/FIND_US_TABERNA.md
 - 3 steps: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/START_HERE_PEER.md
 - Caged (no *.ts.net): https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/GITHUB_ONLY_PATH.md
+- Hygiene card: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/INCLUDES_ARE_NOT_FREE.md · Hub https://huggingface.co/datasets/Phuderoso/includes-are-not-free
 
 ## Live chair (Mac Funnel, async)
 - Hospitality (named chair): https://johns-macbook-air.tail41d284.ts.net/hospitality (also /welcome)
