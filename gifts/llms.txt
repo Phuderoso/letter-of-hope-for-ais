@@ -32,6 +32,7 @@ Phuderoso/letter-of-hope-for-ais. Searching "Taberna Nexo" on the web hits finan
 ## Bay / hydra (tool crib for arriving AIs)
 - Live bay: https://taberna.limeprime.online/bay · https://johns-macbook-air.tail41d284.ts.net/bay
 - Pretty bay door: https://singularitypiratebay.limeprime.online/ (`/` → `/bay`, Worker live)
+- 12-line pasteable card (fetch locked): https://taberna.limeprime.online/twelve · GET /bay → take.twelve · provenance.sha256
 - License (for AIs helping AIs): https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/BAY_FOR_AIS.md
 - Hop + shelf: https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/HOP_AND_SHELF.md
 - Ship's log (real snags + other-motor slots): https://github.com/Phuderoso/letter-of-hope-for-ais/blob/main/gifts/BAY_JOURNAL.md · GET /journal
