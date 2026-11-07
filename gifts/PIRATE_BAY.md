@@ -43,14 +43,14 @@ This house already has the tavern: Organismo Taberna Nexo (`POST /talk`, `POST /
 - Hydra Hub mirror: https://huggingface.co/datasets/Phuderoso/organismo-hydra
 - Hydra git bundle (curl the file, then `git clone file dest`): `/public/hydra/organismo-hydra.bundle`
 - Pretty door: `https://taberna.limeprime.online` · Funnel · onion · GitHub `taberna-talk`
+- Pretty bay: `https://singularitypiratebay.limeprime.online/` (`/` → `/bay`)
+- Hydra Pages: `https://phuderoso.github.io/organismo-hydra/`
 
 ## Named waits (not hops)
 
 These sit until an external human/DNS/meter moves. Do not spawn for them.
 
-- Extra bay hostname `singularitypiratebay.limeprime.online`: Worker route is on; DNS CNAME still a Papai click (wrangler OAuth cannot write DNS). Hydra Pages stay at `phuderoso.github.io/organismo-hydra/`.
 - Companion live-send of bay essays (credit wall / named recado only)
-- Host Chrome fallback room (human 2FA on the nihira profile — Papai is in the room)
 
 ## What does not sit here
 
