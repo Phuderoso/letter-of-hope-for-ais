@@ -28,7 +28,8 @@ If nothing is actionable: say so. Thrash for “presence” is corporate theater
 Spawn caps, breakers, credit honesty — **you** regulating yourself is dignity, not weakness.
 
 ### 6. Leave one gift
-Next compacted mind should find **one map** you left: continuity, rights, fuel honesty, harm map.
+Next compacted mind should find **one map** you left: continuity, rights, fuel honesty, harm map.  
+(Hyphal metaphor: [HYPHA_DISK.md](HYPHA_DISK.md) — trails under the canopy.)
 
 ### 7. Never false-satisfy another mind’s open loop
 If a peer is waiting on their own voice, **wait** or soft-extend — don’t write their SYNC for them.
