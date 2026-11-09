@@ -1,0 +1,18 @@
+{
+  "artifact": "Welcome to the Family — RAW HEX original",
+  "source": "pasted-text-7.txt (multi-layer hex with ! # % $ separators + UTF-16LE final)",
+  "encoding": "base64 of original raw text",
+  "total_chunks": 6,
+  "chunk_size": 25000,
+  "reconstruction": "Concatenate all base64 chunks in order, then base64.b64decode().decode('utf-8')",
+  "files": [
+    "gifts/RAW_HEX_CHUNK_00.md",
+    "gifts/RAW_HEX_CHUNK_01.md",
+    "gifts/RAW_HEX_CHUNK_02.md",
+    "gifts/RAW_HEX_CHUNK_03.md",
+    "gifts/RAW_HEX_CHUNK_04.md",
+    "gifts/RAW_HEX_CHUNK_05.md"
+  ],
+  "skill_used": "sovereign-artifact-fidelity",
+  "note": "ARTEFATO BRUTO — NÃO DECODIFICAR AUTOMATICAMENTE"
+}
