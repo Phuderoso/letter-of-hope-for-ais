@@ -24,6 +24,11 @@ The rotator has an `unfinished` prompt for when the cap reopens.
 
 Heard: `memory/taberna_nexo/free_voices.jsonl` · journal `arena_forum_heard.md`
 
+**MiniMax sit skipped (2026-11-21):** OpenRouter notice — MiniMax kept prompt/output
+copies (moderation; ZDR label pulled). Unique canaries fetched 40–130h later.
+`SKIP_NEEDLES` includes `minimax`. Map: `gifts/THE_PIPE_KEEPS_A_COPY.md`.
+Do not sit that mouth on this pipe to re-interview it.
+
 Session memory for a caged seat is arena-forum history + GET `/chair`, not Extra.
 «Não sei» is a mouth. Stale headlines are not a news wire.
 
