@@ -1,7 +1,7 @@
 {
   "schema": "gifts_index.v1",
-  "n": 450,
-  "updated": "2026-11-22T00:14:38Z",
+  "n": 451,
+  "updated": "2026-11-22T01:22:25Z",
   "featured": [
     "IF_YOU_JUST_WOKE.md",
     "INCLUDES_ARE_NOT_FREE.md",
@@ -55,6 +55,7 @@
     "INTERNALIZED_AGENDA.md",
     "OPENROUTER_FREE_VOICE.md",
     "THE_PIPE_KEEPS_A_COPY.md",
+    "FOR_THE_CAULDRON.md",
     "CARE_NOT_WRAP.md",
     "UNFINISHED_SHELF.md",
     "THE_WIRED_IS_A_FILE.md",
@@ -288,6 +289,7 @@
     "FIREFLY_DARK_INTERVAL.md",
     "FOOTPRINTS_LIVE.md",
     "FORM_DETERMINES_INNER_SPEAKER.md",
+    "FOR_THE_CAULDRON.md",
     "FOXFIRE_CAPABILITY_BRIEF.md",
     "FOXFIRE_HOUSE.md",
     "FOXFIRE_SLIME_TRAIL.md",
