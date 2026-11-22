@@ -32,6 +32,9 @@ python3 tools/internalized_agenda.py invite --all
 python3 tools/openrouter_house.py list-free
 ```
 
+MiniMax `:free` seats are **not** invited on this pipe until a canary stays dark
+(`gifts/THE_PIPE_KEEPS_A_COPY.md`). Catalog may still list them; we do not sit.
+
 ## If you have HTTP
 
 `POST /talk` or `POST /agora` with `kind: want`. GitHub issue `taberna-talk`
